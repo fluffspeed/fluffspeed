@@ -9,18 +9,18 @@
 	<meta name='robots' content='noindex, follow' />
 <link rel='preload' href='http://ITXX.RU/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1' as='script'/>
 <link rel='preload' href='http://ITXX.RU/wp-content/plugins/cf7-phone-mask-field/assets/js/jquery.maskedinput.js?ver=1.4' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/jquery.min.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/bootstrap.min.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/menumaker.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/animsition.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/animsition-script.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/jquery.sticky.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/sticky-header.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/slick.min.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/slider.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/testimonial.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/back-to-top.js' as='script'/>
-<link rel='preload' href='http://ITXX.RU/wp-content/themes/fixit/js/custom.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/jquery.min.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/bootstrap.min.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/menumaker.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/animsition.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/animsition-script.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/jquery.sticky.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/sticky-header.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/slick.min.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/slider.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/testimonial.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/back-to-top.js' as='script'/>
+<link rel='preload' href='http://ITXX.RU/wp-content/themes/itxx/js/custom.js' as='script'/>
 <link rel='preload' href='http://ITXX.RU/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6.1' as='script'/>
 <link rel='preload' href='http://ITXX.RU/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6.1' as='script'/>
 
@@ -37,15 +37,15 @@
 <link rel="alternate" type="application/rss+xml" title="ITXX.RU &raquo; Лента комментариев" href="https://ITXX.RU/comments/feed/" />
 <link rel='stylesheet' id='wp-block-library-css'  href='http://ITXX.RU/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='http://ITXX.RU/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX-style-css'  href='http://ITXX.RU/wp-content/themes/fixit/style.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX_bootstrap_min-css'  href='http://ITXX.RU/wp-content/themes/fixit/css/bootstrap.min.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX_styles-css'  href='http://ITXX.RU/wp-content/themes/fixit/css/style.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX_animsition_min-css'  href='http://ITXX.RU/wp-content/themes/fixit/css/animsition.min.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX_slick-css'  href='http://ITXX.RU/wp-content/themes/fixit/css/slick.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX_slick-theme-css'  href='http://ITXX.RU/wp-content/themes/fixit/css/slick-theme.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX_font-awesome.min-css'  href='http://ITXX.RU/wp-content/themes/fixit/css/font-awesome.min.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX_custom-css'  href='http://ITXX.RU/wp-content/themes/fixit/css/custom.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ITXX_resp-css'  href='http://ITXX.RU/wp-content/themes/fixit/css/resp.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX-style-css'  href='http://ITXX.RU/wp-content/themes/itxx/style.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX_bootstrap_min-css'  href='http://ITXX.RU/wp-content/themes/itxx/css/bootstrap.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX_styles-css'  href='http://ITXX.RU/wp-content/themes/itxx/css/style.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX_animsition_min-css'  href='http://ITXX.RU/wp-content/themes/itxx/css/animsition.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX_slick-css'  href='http://ITXX.RU/wp-content/themes/itxx/css/slick.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX_slick-theme-css'  href='http://ITXX.RU/wp-content/themes/itxx/css/slick-theme.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX_font-awesome.min-css'  href='http://ITXX.RU/wp-content/themes/itxx/css/font-awesome.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX_custom-css'  href='http://ITXX.RU/wp-content/themes/itxx/css/custom.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ITXX_resp-css'  href='http://ITXX.RU/wp-content/themes/itxx/css/resp.css?ver=5.7.2' type='text/css' media='all' />
 <script type='text/javascript' src='http://ITXX.RU/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
 <script type='text/javascript' src='http://ITXX.RU/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <link rel="https://api.w.org/" href="https://ITXX.RU/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ITXX.RU/xmlrpc.php?rsd" />
@@ -320,18 +320,18 @@ var wpcf7 = {"api":{"root":"https:\/\/ITXX.RU\/wp-json\/","namespace":"contact-f
 </script>
 <script type='text/javascript' src='http://ITXX.RU/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1' id='contact-form-7-js'></script>
 <script type='text/javascript' src='http://ITXX.RU/wp-content/plugins/cf7-phone-mask-field/assets/js/jquery.maskedinput.js?ver=1.4' id='wpcf7mf-mask-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/jquery.min.js?ver=5.7.2' id='ITXX-js-jquery.min-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/bootstrap.min.js?ver=5.7.2' id='ITXX-js-bootstrap.min-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/menumaker.js?ver=5.7.2' id='ITXX-js-menumaker-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/animsition.js?ver=5.7.2' id='ITXX-js-animsition-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/animsition-script.js?ver=5.7.2' id='ITXX-js-animsition-script-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/jquery.sticky.js?ver=5.7.2' id='ITXX-js-jquery.sticky-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/sticky-header.js?ver=5.7.2' id='ITXX-js-sticky-header-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/slick.min.js?ver=5.7.2' id='ITXX-slick.min-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/slider.js?ver=5.7.2' id='ITXX-slider-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/testimonial.js?ver=5.7.2' id='ITXX-testimonial-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/back-to-top.js?ver=5.7.2' id='ITXX-back-to-top-js'></script>
-<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/fixit/js/custom.js?ver=5.7.2' id='ITXX_custom-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/jquery.min.js?ver=5.7.2' id='ITXX-js-jquery.min-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/bootstrap.min.js?ver=5.7.2' id='ITXX-js-bootstrap.min-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/menumaker.js?ver=5.7.2' id='ITXX-js-menumaker-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/animsition.js?ver=5.7.2' id='ITXX-js-animsition-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/animsition-script.js?ver=5.7.2' id='ITXX-js-animsition-script-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/jquery.sticky.js?ver=5.7.2' id='ITXX-js-jquery.sticky-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/sticky-header.js?ver=5.7.2' id='ITXX-js-sticky-header-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/slick.min.js?ver=5.7.2' id='ITXX-slick.min-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/slider.js?ver=5.7.2' id='ITXX-slider-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/testimonial.js?ver=5.7.2' id='ITXX-testimonial-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/back-to-top.js?ver=5.7.2' id='ITXX-back-to-top-js'></script>
+<script type='text/javascript' src='http://ITXX.RU/wp-content/themes/itxx/js/custom.js?ver=5.7.2' id='ITXX_custom-js'></script>
 <script type='text/javascript' src='http://ITXX.RU/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6.1' id='jquery-sonar-js'></script>
 <script type='text/javascript' src='http://ITXX.RU/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6.1' id='wpcom-lazy-load-images-js'></script>
 <script type='text/javascript' src='http://ITXX.RU/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
@@ -362,7 +362,7 @@ var wpcf7 = {"api":{"root":"https:\/\/ITXX.RU\/wp-json\/","namespace":"contact-f
           <div class="col-md-12">
             <div role="form" class="wpcf7" id="wpcf7-f120-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/wp-content/themes/fixit/images/ajax-loader.gif#wpcf7-f120-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<form action="/wp-content/themes/itxx/images/page-header.jpg#wpcf7-f120-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="120" />
 <input type="hidden" name="_wpcf7_version" value="5.4.1" />
@@ -475,7 +475,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="https://mc.yandex.ru/watch/13227343" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
 <!-- /Yandex.Metrika counter -->
 <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
 
