@@ -773,7 +773,7 @@ font-family: 'slick';
 font-weight: normal;
 font-style: normal;
 src: url(../../../themes/itxx/fonts/slick.eot);
-src: url(../../../themes/itxx/fonts/slickd41d.eot?#iefix) format('embedded-opentype'), url(//ITXX.RU/wp-content/themes/itxx/fonts/slick.woff) format('woff'), url(//ITXX.RU/wp-content/themes/itxx/fonts/slick.ttf) format('truetype'), url(https://ITXX.RU/wp-content/themes/itxx/css/fonts/slick.svg#slick) format('svg');
+src: url(../../../themes/itxx/fonts/slickd41d.eot?#iefix) format('embedded-opentype'), url(//ITXX.RU/wp-content/themes/itxx/fonts/slick.woff) format('woff'), url(//ITXX.RU/wp-content/themes/itxx/fonts/slick.ttf) format('truetype'), url(wp-content/themes/itxx/css/fonts/slick.svg#slick) format('svg');
 } .slick-prev,
 .slick-next
 {
