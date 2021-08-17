@@ -50,7 +50,7 @@
 <script type='text/javascript' src='http://ITXX.RU/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <link rel="https://api.w.org/" href="https://ITXX.RU/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ITXX.RU/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ITXX.RU/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.7.2" />
+
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="wp-content/uploads/2018/12/favicon-1-150x150.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2018/12/favicon-1.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/2018/12/favicon-1.png" />
